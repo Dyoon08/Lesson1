@@ -1,4 +1,4 @@
-
+#This main file contains changes from our first class
 
 # age1 = int(input("What is your age"))
 # age2 = int(input("What is your age"))
@@ -19,7 +19,6 @@
 #   print( "yes" )
 # elif num2 % num1 !=0:
 #   print( "no" )
-
 
 
 
