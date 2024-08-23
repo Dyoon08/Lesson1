@@ -23,7 +23,7 @@
 
 
 name="daniel"
-if "e" in name:
-  print( "yes" )
-else:
+if "w" in name:
+  print("yes")
+else: 
   print ("no")
